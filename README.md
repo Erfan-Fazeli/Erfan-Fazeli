@@ -12,14 +12,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan-Fazeli&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Erfan-Fazeli&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Erfan-Fazeli&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Erfan-Fazeli&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
 [![](https://visitcount.itsvg.in/api?id=Erfan-Fazeli&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
