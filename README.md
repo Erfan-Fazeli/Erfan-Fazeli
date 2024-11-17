@@ -16,9 +16,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Erfan-Fazeli&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
----
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Erfan-Fazeli&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+---
+
 
 [![](https://visitcount.itsvg.in/api?id=Erfan-Fazeli&icon=2&color=1)](https://visitcount.itsvg.in)
 
