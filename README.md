@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/Erfan-Fazeli?template=terminal&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FTehran)
+
 # 💫 About Me:
 🔥 DevOps & Programmer<br><br>💻 Specialized in DevOps engineering with deep expertise in Linux, Docker, and cloud infrastructure<br>🌐 Network engineering knowledge complementing my DevOps journey<br>🤖 Passionate about IoT & home automation: Working with Arduino, Raspberry Pi & ESP32<br>🔧 Electronics & Automation Systems Engineer<br>⭐️ Familiar with Scrum methodology and product development lifecycle<br>🎯 Growing experience in Backend Development with focus on scalable solutions<br><br>🛠 Daily Stack:<br>- Infrastructure & Containerization<br>- Network Engineering<br>- IoT Development<br>- Automation Solutions<br>- Team Leadership & Agile Project Management<br><br>👨‍💻 Exploring DevOps and Cloud Technologies
 
