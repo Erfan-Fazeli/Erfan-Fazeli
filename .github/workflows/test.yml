@@ -29,7 +29,14 @@ jobs:
           template: terminal
           base: header
           extras_css: |
-           pre, .banner, footer {
+           pre {
               color: #162456;
             }
           config_timezone: Asia/Tehran
+
+
+
+
+
+
+          
