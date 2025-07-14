@@ -14,4 +14,4 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ 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 }}
