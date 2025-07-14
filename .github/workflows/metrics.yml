@@ -13,5 +13,9 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          filename: metrics.plugin.reactions.svg
           token: ${{ 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 }}
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
