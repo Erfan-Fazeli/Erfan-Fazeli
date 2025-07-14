@@ -30,7 +30,7 @@ jobs:
           base: header
           extras_css: |
            pre {
-              color: #162456;
+              background: #162456;
             }
           config_timezone: Asia/Tehran
 
