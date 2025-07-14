@@ -28,4 +28,8 @@ jobs:
           user: Erfan-Fazeli
           template: terminal
           base: header
+          extras_css: |
+           pre, .banner, footer {
+              color: #162456;
+            }
           config_timezone: Asia/Tehran
