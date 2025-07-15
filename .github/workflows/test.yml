@@ -32,10 +32,7 @@ jobs:
            pre {
               background: #162456;
             }
-          config_timezone: Asia/Tehran
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
+          config_timezone: Asia/Tehra
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
