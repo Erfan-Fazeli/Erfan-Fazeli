@@ -1,6 +1,6 @@
 <h1 align="center"> > HELLO WORLD! </h1>
 <br>
-<p Style="font-size: 1200px;"> Backend | DevOps | Networking </p>
+<p font-size:1200px; > Backend | DevOps | Networking </p>
 <p> <img src="/github-metrics.svg" alt="Metrics" /> </p>
 
 
