@@ -1,10 +1,10 @@
-<h1 align="center"> > Hey There!, I Am Erfan Fazeli </h1>
+<h1 align="center"> > HELLO WORLD! </h1>
 
-<p align="center">
+<p>
   <img src="/github-metrics.svg" alt="Metrics" />
 </p>
 <br>
-<h3 align="center"> Backend | DevOps | Networking </h3>
+<h3"> Backend | DevOps | Networking </h3>
 
 
 
