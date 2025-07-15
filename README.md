@@ -1,10 +1,9 @@
 <h1 align="center"> > HELLO WORLD! </h1>
-
+<br>
 <p>
   <img src="/github-metrics.svg" alt="Metrics" />
 </p>
-<br>
-<h3"> Backend | DevOps | Networking </h3>
+<h2"> Backend | DevOps | Networking </h2>
 
 
 
