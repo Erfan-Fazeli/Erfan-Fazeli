@@ -4,7 +4,7 @@
 </p>
 <br>
 
-## Hi There ! I'm Erfan Fazeli <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"> 
+# Hi There ! I'm Erfan Fazeli <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"> 
 
 ### Backend | DevOps | Networking
 
