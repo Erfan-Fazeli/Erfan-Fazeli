@@ -3,10 +3,10 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=sorce+code+pro&weight=500&size=50&duration=3000&pause=500&color=00C950&center=true&vCenter=true&width=435&lines=Hello+Worls+!" alt="Typing SVG" /></a>
 </p>
 <br>
-<h2 align="center"> 
+<p align="center" font-size="400px"> 
  Hi There ! I'm Erfan Fazeli <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"> 
-</h2>
-<h2 align="center">Backend | DevOps | Networking</h2>
+</p>
+<p align="center">Backend | DevOps | Networking</p>
 
 
 <p> <img src="/github-metrics.svg" alt="Metrics" /> </p>
