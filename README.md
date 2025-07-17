@@ -1,10 +1,9 @@
 <br>
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=sorce+code+pro&weight=500&size=50&duration=3000&pause=500&color=00C950&center=true&vCenter=true&width=435&lines=Hello+Worls+!" alt="Typing SVG" /></a>
+ <h3> Backend | DevOps | Networking</h3>
 </p>
-<p align="center">
-<h3> Backend | DevOps | Networking</h3>
-  </p>
+
 
 
 <p> <img src="/github-metrics.svg" alt="Metrics" /> </p>
