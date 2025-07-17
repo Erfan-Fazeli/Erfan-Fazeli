@@ -9,10 +9,11 @@
  </summary>
 
 ## Backend | DevOps | Networking
+<br>
+<br>
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erfan-Fazeli&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erfan-Fazeli&theme=2077)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erfan-Fazeli&theme=transparent)
+&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erfan-Fazeli&theme=transparent)
 
 
 
