@@ -10,7 +10,8 @@
 
 ## Backend | DevOps | Networking
 
-![metrics](github-metrics.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan-Fazeli&layout=compact)
 
 
 
