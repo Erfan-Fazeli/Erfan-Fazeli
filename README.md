@@ -11,7 +11,7 @@
 ## Backend | DevOps | Networking
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan-Fazeli&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Erfan-Fazeli&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erfan-Fazeli&theme=2077)
 
 
 
