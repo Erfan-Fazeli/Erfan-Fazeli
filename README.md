@@ -6,7 +6,7 @@
 
 ### Hi There ! I'm Erfan Fazeli <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"> 
 
-### Backend | DevOps | Networking
+# Backend | DevOps | Networking
 
 
 <p> <img src="/github-metrics.svg" alt="Metrics" /> </p>
