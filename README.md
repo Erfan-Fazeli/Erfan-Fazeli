@@ -1,14 +1,18 @@
-<br>
-<p align="center">
+![](https://github.com/Erfan-Fazeli/Erfan-Fazeli/blob/main/fbc6f31bd3b84159470b973aca7e0f97_fbc6f31bd3b84159470b973aca7e0f97_gif__1920_1080_.gif)
+
+<br><br> <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=sorce+code+pro&weight=500&size=50&duration=3000&pause=500&color=00C950&center=true&vCenter=true&width=435&lines=Hello+World+!" alt="Typing SVG" /></a>
 </p>
 <br>
-<summary>
+<summary align="center">
  
  # Hi There ! I'm Erfan Fazeli <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px"> 
  </summary>
-
+<summary align="center">
+ 
 ## Backend | DevOps | Networking
+ </summary>
+
 <br>
 <br>
 
