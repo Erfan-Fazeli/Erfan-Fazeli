@@ -12,7 +12,7 @@
 <img src="https://github.com/Erfan-Fazeli/Erfan-Fazeli/blob/main/asset/121.svg" width="50%"></a>
 </p>
  <p align="center">
-<img src="https://github.com/Erfan-Fazeli/Erfan-Fazeli/blob/main/asset/Line%201.svg""></a>
+<img src="https://github.com/Erfan-Fazeli/Erfan-Fazeli/blob/main/asset/Line%201.svg"></a>
 </p>
 
 <br>
