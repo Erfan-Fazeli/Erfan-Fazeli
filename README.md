@@ -2,17 +2,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=5500&pause=800&color=00C950&center=true&vCenter=true&width=435&lines=Hello+World+!" alt="Typing SVG" /></a>
 </p>
 <br>
+<br>
+
+![](https://github.com/Erfan-Fazeli/Erfan-Fazeli/blob/main/fbc6f31bd3b84159470b973aca7e0f97_fbc6f31bd3b84159470b973aca7e0f97_gif__1920_1080_.gif)
+<br>
 <h1 align="center">
  Hi There ! I'm Erfan Fazeli <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px"> 
 </h>
  
 <h3 align="center"> Backend | DevOps | Networking </h3> 
 
-
-<br>
-<br>
-
-![](https://github.com/Erfan-Fazeli/Erfan-Fazeli/blob/main/fbc6f31bd3b84159470b973aca7e0f97_fbc6f31bd3b84159470b973aca7e0f97_gif__1920_1080_.gif)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erfan-Fazeli&theme=transparent)
